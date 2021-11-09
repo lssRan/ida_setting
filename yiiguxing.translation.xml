@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="put If Absent" />
+      <item value="获取当前年" />
       <item value=" master had recent pushes 20 minutes ago" />
       <item value="Want to create a shortcut for" />
       <item value="Want to create a shortcut for 设置仓库…?" />
@@ -54,13 +56,11 @@
       <item value="load Add Liquidate Damages Apply Html" />
       <item value="Spring Boot plugin requires Gradle 6.8.x, 6.9.x, or 7.x. The current version is Gradle 6.7.1" />
       <item value="spring Framework Boot" />
-      <item value="项目&#10;" />
-      <item value="{&quot;timestamp&quot;:&quot;2021-10-27T08:20:56.951+0000&quot;,&quot;status&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;Error resolving template [liquidatedDamages/addLiquidateDamagesApply], template might not exist or might not be accessible by any of the configured Template Resolvers&quot;,&quot;path&quot;:&quot;/liquidatedDamages/addLiquidateDamagesApply&quot;}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="347" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="355" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
