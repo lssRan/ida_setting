@@ -1,0 +1,77 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="274" />
+    <option name="newTranslationDialogWidth" value="730" />
+    <option name="newTranslationDialogX" value="527" />
+    <option name="newTranslationDialogY" value="208" />
+    <histories>
+      <item value="Exception in thread &quot;Timer-0&quot; org.apache.ibatis.exceptions.PersistenceException:&#10;&#10;### Error querying database.  Cause: java.sql.SQLNonTransientConnectionException&#10;: Could not create connection to database server. Attempted reconnect 3 times. G&#10;iving up." />
+      <item value="url" />
+      <item value="Author" />
+      <item value="转预存&#10;" />
+      <item value="zhuan'yu'cun" />
+      <item value="Deprecated" />
+      <item value="违约金&#10;" />
+      <item value="liquidated damages" />
+      <item value="liquidate damages" />
+      <item value="Liquidated Damages" />
+      <item value="Current request is not a multipart request " />
+      <item value="Current request is not a multipart request" />
+      <item value="减免&#10;" />
+      <item value="减免&#10;view_liquidated_damages_remark.html" />
+      <item value="s" />
+      <item value="核销&#10;table_liquidate_damages_write_off.html" />
+      <item value="核销&#10;table_liquidate_damages_Write_off.html" />
+      <item value="核销&#10;table_liquidate_damages_Writeoff.html" />
+      <item value="核销&#10;table_liquidate_damages_Write off.html" />
+      <item value="核销&#10;table_liquidate_damages_verify.html" />
+      <item value="核销&#10;" />
+      <item value="Liquidated Damages Exemption" />
+      <item value="get Exemption Of Liquidated Damages Data" />
+      <item value="get Liquidated Damages Reduction Data" />
+      <item value="reject Apply Of Exemption Of Liquidated Damages" />
+      <item value="pass Apply Of Exemption Of Liquidated Damages" />
+      <item value="Exemption Of Liquidated Damages" />
+      <item value="ID EXEMPTION OF LIQUIDATE DAMAGES VERIFY" />
+      <item value="ID VERIFY OF LIQUIDATE DAMAGES APPLY" />
+      <item value="ID EXEMPTION OF LIQUIDATE DAMAGES APPLY" />
+      <item value="apply For Exemption Of Liquidated Damages" />
+      <item value="application For Exemption Of Liquidated Damages" />
+      <item value="There is already" />
+      <item value="requesr Result" />
+      <item value="net Work Result" />
+      <item value="is Blank" />
+      <item value="liquidated Damages Judgment Of Authority" />
+      <item value="liquidated Damages Auth" />
+      <item value="reject For Liquidated Damages" />
+      <item value="apply For Liquidated Damages" />
+      <item value="org.springframework.expression.spel.SpelEvaluationException: EL1008E: Property or field 'stat' cannot be found on object of type 'java.lang.Integer' - maybe not public or not valid?&#10;&#10;" />
+      <item value="load Liquidate Damages Verify Html" />
+      <item value="load Add Liquidate Damages Apply Html" />
+      <item value="Spring Boot plugin requires Gradle 6.8.x, 6.9.x, or 7.x. The current version is Gradle 6.7.1" />
+      <item value="spring Framework Boot" />
+      <item value="项目&#10;" />
+      <item value="{&quot;timestamp&quot;:&quot;2021-10-27T08:20:56.951+0000&quot;,&quot;status&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;Error resolving template [liquidatedDamages/addLiquidateDamagesApply], template might not exist or might not be accessible by any of the configured Template Resolvers&quot;,&quot;path&quot;:&quot;/liquidatedDamages/addLiquidateDamagesApply&quot;}" />
+      <item value="add Liquidated Damages" />
+      <item value="Liquidate Damages" />
+      <item value="add Liquidate Damages Apply" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="345" />
+        <entry key="FRENCH" value="2" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1636334420429" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>

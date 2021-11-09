@@ -1,0 +1,163 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_221&quot;" />
+      <homePath value="E:/tools/java/jdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://E:/tools/java/jdk/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://E:/tools/java/jdk/src.zip!/" type="simple" />
+            <root url="jar://E:/tools/java/jdk/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Kotlin SDK" />
+      <type value="KotlinSDK" />
+      <version value="1.4.10" />
+      <homePath value="E:\IDE\idea\plugins\Kotlin\kotlinc" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="jbr-11" />
+      <type value="JavaSDK" />
+      <version value="JetBrains Runtime version 11.0.11" />
+      <homePath value="$APPLICATION_HOME_DIR$/jbr" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://E:/IDE/idea-2021/jbr!/gluegen.rt" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.base" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.compiler" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.desktop" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.instrument" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.logging" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.management" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.naming" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.net.http" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.prefs" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.rmi" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.scripting" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.se" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.sql" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.xml" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jcef" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.aot" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.jcmd" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.management" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.net" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.pack" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jdk.zipfs" type="simple" />
+            <root url="jrt://E:/IDE/idea-2021/jbr!/jogl.all" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://docs.oracle.com/en/java/javase/11/docs/api/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
