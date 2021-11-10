@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="one click invoicing" />
       <item value="put If Absent" />
       <item value="获取当前年" />
       <item value=" master had recent pushes 20 minutes ago" />
@@ -55,12 +56,11 @@
       <item value="load Liquidate Damages Verify Html" />
       <item value="load Add Liquidate Damages Apply Html" />
       <item value="Spring Boot plugin requires Gradle 6.8.x, 6.9.x, or 7.x. The current version is Gradle 6.7.1" />
-      <item value="spring Framework Boot" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
