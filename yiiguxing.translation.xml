@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="apply Invoice Prompt" />
+      <item value="one Click Invoicing" />
+      <item value="one Key Kp Apply" />
       <item value="one click invoicing" />
       <item value="put If Absent" />
       <item value="获取当前年" />
@@ -53,14 +56,11 @@
       <item value="reject For Liquidated Damages" />
       <item value="apply For Liquidated Damages" />
       <item value="org.springframework.expression.spel.SpelEvaluationException: EL1008E: Property or field 'stat' cannot be found on object of type 'java.lang.Integer' - maybe not public or not valid?&#10;&#10;" />
-      <item value="load Liquidate Damages Verify Html" />
-      <item value="load Add Liquidate Damages Apply Html" />
-      <item value="Spring Boot plugin requires Gradle 6.8.x, 6.9.x, or 7.x. The current version is Gradle 6.7.1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="359" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
