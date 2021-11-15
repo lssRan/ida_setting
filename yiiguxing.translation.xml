@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="{&quot;code&quot;:&quot;300&quot;,&quot;msg&quot;:&quot;Type definition error: [simple type, class org.springframework.web.multipart.MultipartFile]; nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct instance of `org.springframework.web.multipart.MultipartFile` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information\n at [Source: (PushbackInputStream); line: 1, column: 686] (through reference chain: com.demo.web.entity.model.InvoiceEmailBody[\&quot;file\&quot;])&quot;,&quot;count&quot;:0}" />
       <item value="PT 6 H" />
       <item value="load Update Template Customer Html" />
       <item value="apply Invoice Prompt" />
@@ -55,11 +56,10 @@
       <item value="is Blank" />
       <item value="liquidated Damages Judgment Of Authority" />
       <item value="liquidated Damages Auth" />
-      <item value="reject For Liquidated Damages" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
+        <entry key="CHINESE" value="361" />
         <entry key="ENGLISH" value="361" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
