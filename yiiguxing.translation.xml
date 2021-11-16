@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="bacth&#10;" />
+      <item value="bacth" />
+      <item value="bac" />
+      <item value="batch&#10;" />
+      <item value="batc" />
       <item value="message from server: &quot;Host '192.168.1.13' is not allowed to connect to this MySQL serv" />
       <item value="{&quot;code&quot;:&quot;300&quot;,&quot;msg&quot;:&quot;Not in multipart mode - create an appropriate MimeMessageHelper via a constructor that takes a 'multipart' flag if you need to set alternative texts or add inline elements or attachments.&quot;,&quot;count&quot;:0}" />
       <item value="{&quot;code&quot;:&quot;300&quot;,&quot;msg&quot;:&quot;Type definition error: [simple type, class org.springframework.web.multipart.MultipartFile]; nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Cannot construct instance of `org.springframework.web.multipart.MultipartFile` (no Creators, like default construct, exist): abstract types either need to be mapped to concrete types, have custom deserializer, or contain additional type information\n at [Source: (PushbackInputStream); line: 1, column: 686] (through reference chain: com.demo.web.entity.model.InvoiceEmailBody[\&quot;file\&quot;])&quot;,&quot;count&quot;:0}" />
@@ -51,16 +56,11 @@
       <item value="ID VERIFY OF LIQUIDATE DAMAGES APPLY" />
       <item value="ID EXEMPTION OF LIQUIDATE DAMAGES APPLY" />
       <item value="apply For Exemption Of Liquidated Damages" />
-      <item value="application For Exemption Of Liquidated Damages" />
-      <item value="There is already" />
-      <item value="requesr Result" />
-      <item value="net Work Result" />
-      <item value="is Blank" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="362" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="363" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
