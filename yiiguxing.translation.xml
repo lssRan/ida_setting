@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="update Paramsdata" />
       <item value="add Input Monitor" />
       <item value="bacth&#10;" />
       <item value="bacth" />
@@ -55,12 +56,11 @@
       <item value="Exemption Of Liquidated Damages" />
       <item value="ID EXEMPTION OF LIQUIDATE DAMAGES VERIFY" />
       <item value="ID VERIFY OF LIQUIDATE DAMAGES APPLY" />
-      <item value="ID EXEMPTION OF LIQUIDATE DAMAGES APPLY" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="ENGLISH" value="365" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
