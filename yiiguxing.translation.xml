@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="IUNIT" />
       <item value="update Paramsdata" />
       <item value="add Input Monitor" />
       <item value="bacth&#10;" />
@@ -55,7 +56,6 @@
       <item value="pass Apply Of Exemption Of Liquidated Damages" />
       <item value="Exemption Of Liquidated Damages" />
       <item value="ID EXEMPTION OF LIQUIDATE DAMAGES VERIFY" />
-      <item value="ID VERIFY OF LIQUIDATE DAMAGES APPLY" />
     </histories>
     <option name="languageScores">
       <map>
