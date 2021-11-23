@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="thumbnail" />
+      <item value="droppable" />
+      <item value="reconciliation Import" />
       <item value="IUNIT" />
       <item value="update Paramsdata" />
       <item value="add Input Monitor" />
@@ -53,14 +56,11 @@
       <item value="get Exemption Of Liquidated Damages Data" />
       <item value="get Liquidated Damages Reduction Data" />
       <item value="reject Apply Of Exemption Of Liquidated Damages" />
-      <item value="pass Apply Of Exemption Of Liquidated Damages" />
-      <item value="Exemption Of Liquidated Damages" />
-      <item value="ID EXEMPTION OF LIQUIDATE DAMAGES VERIFY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636955839929" />
+    <option name="lastTrimTime" value="1637654593195" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
