@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="descriptor Ref" />
+      <item value="descriptor Refs" />
+      <item value="Could not transfer artifact" />
       <item value="thumbnail" />
       <item value="droppable" />
       <item value="reconciliation Import" />
@@ -53,14 +56,11 @@
       <item value="核销&#10;table_liquidate_damages_verify.html" />
       <item value="核销&#10;" />
       <item value="Liquidated Damages Exemption" />
-      <item value="get Exemption Of Liquidated Damages Data" />
-      <item value="get Liquidated Damages Reduction Data" />
-      <item value="reject Apply Of Exemption Of Liquidated Damages" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
