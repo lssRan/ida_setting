@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="longitude" />
       <item value="@since 6.0" />
       <item value="Java 13 major version." />
       <item value="Java 12 major version." />
@@ -55,12 +56,11 @@
       <item value="减免&#10;view_liquidated_damages_remark.html" />
       <item value="s" />
       <item value="核销&#10;table_liquidate_damages_write_off.html" />
-      <item value="核销&#10;table_liquidate_damages_Write_off.html" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
