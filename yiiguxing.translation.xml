@@ -6,6 +6,29 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="get Lately Location Info" />
+      <item value="位置&#10;" />
+      <item value="Weiz" />
+      <item value="60000" />
+      <item value="ignore Case" />
+      <item value="does It Exist Complaint Info" />
+      <item value="Data truncation: Out of range value for column 'phone_number' at row 1" />
+      <item value="Unknown column 'jctime' in 'field list'" />
+      <item value="Field 'glr' doesn't have a default value" />
+      <item value="permissions" />
+      <item value="not card abnormal" />
+      <item value="not registered" />
+      <item value="determine If Online" />
+      <item value="purchaser" />
+      <item value="package remarks" />
+      <item value="package tariff" />
+      <item value="jctime" />
+      <item value="send Time" />
+      <item value="storage Time" />
+      <item value="submitter" />
+      <item value="Unknown column 'time' in 'field list'" />
+      <item value="group concat" />
+      <item value="get Virtual Number" />
       <item value="longitude" />
       <item value="@since 6.0" />
       <item value="Java 13 major version." />
@@ -33,34 +56,11 @@
       <item value="load Update Template Customer Html" />
       <item value="apply Invoice Prompt" />
       <item value="one Click Invoicing" />
-      <item value="one Key Kp Apply" />
-      <item value="one click invoicing" />
-      <item value="put If Absent" />
-      <item value="获取当前年" />
-      <item value=" master had recent pushes 20 minutes ago" />
-      <item value="Want to create a shortcut for" />
-      <item value="Want to create a shortcut for 设置仓库…?" />
-      <item value="Exception in thread &quot;Timer-0&quot; org.apache.ibatis.exceptions.PersistenceException:&#10;&#10;### Error querying database.  Cause: java.sql.SQLNonTransientConnectionException&#10;: Could not create connection to database server. Attempted reconnect 3 times. G&#10;iving up." />
-      <item value="url" />
-      <item value="Author" />
-      <item value="转预存&#10;" />
-      <item value="zhuan'yu'cun" />
-      <item value="Deprecated" />
-      <item value="违约金&#10;" />
-      <item value="liquidated damages" />
-      <item value="liquidate damages" />
-      <item value="Liquidated Damages" />
-      <item value="Current request is not a multipart request " />
-      <item value="Current request is not a multipart request" />
-      <item value="减免&#10;" />
-      <item value="减免&#10;view_liquidated_damages_remark.html" />
-      <item value="s" />
-      <item value="核销&#10;table_liquidate_damages_write_off.html" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="407" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
