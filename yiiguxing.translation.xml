@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="@since 6.0" />
+      <item value="Java 13 major version." />
+      <item value="Java 12 major version." />
+      <item value="Java 11 major version." />
+      <item value="source Compatibility" />
       <item value="descriptor Ref" />
       <item value="descriptor Refs" />
       <item value="Could not transfer artifact" />
@@ -51,16 +56,11 @@
       <item value="s" />
       <item value="核销&#10;table_liquidate_damages_write_off.html" />
       <item value="核销&#10;table_liquidate_damages_Write_off.html" />
-      <item value="核销&#10;table_liquidate_damages_Writeoff.html" />
-      <item value="核销&#10;table_liquidate_damages_Write off.html" />
-      <item value="核销&#10;table_liquidate_damages_verify.html" />
-      <item value="核销&#10;" />
-      <item value="Liquidated Damages Exemption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
