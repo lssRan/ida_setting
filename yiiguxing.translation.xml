@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="5615924" />
       <item value="Required int parameter 'versionCode' is not present" />
       <item value="msg -&gt; Optional int parameter 'versionCode' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.&#10;" />
       <item value="msg -&gt; Optional int parameter 'versionCode' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type." />
@@ -55,11 +56,10 @@
       <item value="reconciliation Import" />
       <item value="IUNIT" />
       <item value="update Paramsdata" />
-      <item value="add Input Monitor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
+        <entry key="CHINESE" value="421" />
         <entry key="ENGLISH" value="420" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
