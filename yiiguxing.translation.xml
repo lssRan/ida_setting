@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="193" />
     <histories>
+      <item value="Errors occurred while build effective model from D:\Repository\Gradle\caches\modules-2\files-2.1\com.alibaba\druid\1.2.6\c57198d77a31adf5bd36d35f9b12dc936b732587\druid-1.2.6.pom:&#10;    'dependencies.dependency.systemPath' for com.sun:tools:jar must specify an absolute path but is ${project.basedir}/lib/openjdk-1.8-tools.jar in com.alibaba:druid:1.2.6&#10;    'dependencies.dependency.systemPath' for com.sun:jconsole:jar must specify an absolute path but is ${project.basedir}/lib/openjdk-1.8-jconsole.jar in com.alibaba:druid:1.2.6&#10;" />
       <item value="extract SQL statement of action logging switch to executable SQL statement." />
       <item value="Done&#10;hint: not have locally. This is usually caused by another repository pushing&#10;hint: to the same ref. You may want to first integrate the remote changes&#10;hint: (e.g., 'git pull ...') before pushing again.&#10;hint: See the 'Note about fast-forwards' in 'git push --help' for details.&#10;&#10;" />
       <item value="Done&#10;hint: not have locally. This is usually caused by another repository pushing&#10;hint: to the same ref. You may want to first integrate the remote changes&#10;hint: (e.g., 'git pull ...') before pushing again.&#10;hint: See the 'Note about fast-forwards' in 'git push --help' for details.&#10;" />
@@ -55,11 +56,10 @@
       <item value="descriptor Ref" />
       <item value="descriptor Refs" />
       <item value="Could not transfer artifact" />
-      <item value="thumbnail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
+        <entry key="CHINESE" value="424" />
         <entry key="ENGLISH" value="421" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
