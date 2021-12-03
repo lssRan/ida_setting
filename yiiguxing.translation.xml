@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="193" />
     <histories>
+      <item value="&gt; Could not get unknown property 'line' for task ':bootProdJar' of type org.gradle.api.DefaultTask." />
       <item value="Method 'customize(com.example.web.common.ResultCode)' is never used" />
       <item value="Raw use of parameterized class 'ApiResult'" />
       <item value="Unchecked call to 'ApiResult(ResultCode, T, TotalData)' as a member of raw type 'com.example.web.common.ApiResult'" />
@@ -55,12 +56,11 @@
       <item value="Unknown column 'time' in 'field list'" />
       <item value="group concat" />
       <item value="get Virtual Number" />
-      <item value="longitude" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
