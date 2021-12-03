@@ -6,6 +6,9 @@
     <option name="newTranslationDialogX" value="527" />
     <option name="newTranslationDialogY" value="208" />
     <histories>
+      <item value="Done&#10;hint: not have locally. This is usually caused by another repository pushing&#10;hint: to the same ref. You may want to first integrate the remote changes&#10;hint: (e.g., 'git pull ...') before pushing again.&#10;hint: See the 'Note about fast-forwards' in 'git push --help' for details.&#10;&#10;" />
+      <item value="Done&#10;hint: not have locally. This is usually caused by another repository pushing&#10;hint: to the same ref. You may want to first integrate the remote changes&#10;hint: (e.g., 'git pull ...') before pushing again.&#10;hint: See the 'Note about fast-forwards' in 'git push --help' for details.&#10;" />
+      <item value="Done hint: to the same ref. You may want to first integrate the remote changes hint: (e.g., 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
       <item value="5615924" />
       <item value="Required int parameter 'versionCode' is not present" />
       <item value="msg -&gt; Optional int parameter 'versionCode' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.&#10;" />
@@ -53,14 +56,11 @@
       <item value="Could not transfer artifact" />
       <item value="thumbnail" />
       <item value="droppable" />
-      <item value="reconciliation Import" />
-      <item value="IUNIT" />
-      <item value="update Paramsdata" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="421" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
