@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="728" />
-    <option name="newTranslationDialogX" value="527" />
-    <option name="newTranslationDialogY" value="208" />
+    <option name="newTranslationDialogWidth" value="726" />
+    <option name="newTranslationDialogX" value="389" />
+    <option name="newTranslationDialogY" value="193" />
     <histories>
+      <item value="extract SQL statement of action logging switch to executable SQL statement." />
       <item value="Done&#10;hint: not have locally. This is usually caused by another repository pushing&#10;hint: to the same ref. You may want to first integrate the remote changes&#10;hint: (e.g., 'git pull ...') before pushing again.&#10;hint: See the 'Note about fast-forwards' in 'git push --help' for details.&#10;&#10;" />
       <item value="Done&#10;hint: not have locally. This is usually caused by another repository pushing&#10;hint: to the same ref. You may want to first integrate the remote changes&#10;hint: (e.g., 'git pull ...') before pushing again.&#10;hint: See the 'Note about fast-forwards' in 'git push --help' for details.&#10;" />
       <item value="Done hint: to the same ref. You may want to first integrate the remote changes hint: (e.g., 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
@@ -55,11 +56,10 @@
       <item value="descriptor Refs" />
       <item value="Could not transfer artifact" />
       <item value="thumbnail" />
-      <item value="droppable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
+        <entry key="CHINESE" value="423" />
         <entry key="ENGLISH" value="421" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
