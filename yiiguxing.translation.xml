@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="193" />
     <histories>
+      <item value="component" />
+      <item value="Markers" />
       <item value="mysqld: Can't create/write to file 'F:  ools\MySql\data\is_writable' (Errcode: 2 - No such file or directory)&#10;2021-12-04T14:59:12.001608Z 0 [ERROR] Can't find error-message file 'F:\tools\MySql\mysql-5.7.27-winx64\bin\    ools\MySql\mysql-5.7.27-winx64\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.&#10;2021-12-04T14:59:12.003053Z 0 [ERROR] --initialize specified but the data directory exists and is not writable. Aborting.&#10;2021-12-04T14:59:12.003346Z 0 [ERROR] Aborting" />
       <item value=" Found option without preceding group in config file F:\tools\MySql\mysql-5.7.27-winx64\my.ini at line 1!&#10;" />
       <item value="java.nio.charset.MalformedInputException: Input length = 1" />
@@ -54,13 +56,11 @@
       <item value="package tariff" />
       <item value="jctime" />
       <item value="send Time" />
-      <item value="storage Time" />
-      <item value="submitter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="ENGLISH" value="428" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
