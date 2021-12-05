@@ -2,10 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="724" />
+    <option name="newTranslationDialogWidth" value="718" />
     <option name="newTranslationDialogX" value="389" />
-    <option name="newTranslationDialogY" value="193" />
+    <option name="newTranslationDialogY" value="169" />
     <histories>
+      <item value="描述&#10;" />
+      <item value="explain" />
+      <item value="说明&#10;" />
+      <item value="启动说明&#10;" />
       <item value="component" />
       <item value="Markers" />
       <item value="mysqld: Can't create/write to file 'F:  ools\MySql\data\is_writable' (Errcode: 2 - No such file or directory)&#10;2021-12-04T14:59:12.001608Z 0 [ERROR] Can't find error-message file 'F:\tools\MySql\mysql-5.7.27-winx64\bin\    ools\MySql\mysql-5.7.27-winx64\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.&#10;2021-12-04T14:59:12.003053Z 0 [ERROR] --initialize specified but the data directory exists and is not writable. Aborting.&#10;2021-12-04T14:59:12.003346Z 0 [ERROR] Aborting" />
@@ -52,15 +56,11 @@
       <item value="not registered" />
       <item value="determine If Online" />
       <item value="purchaser" />
-      <item value="package remarks" />
-      <item value="package tariff" />
-      <item value="jctime" />
-      <item value="send Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="457" />
+        <entry key="ENGLISH" value="453" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
