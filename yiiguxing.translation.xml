@@ -7,6 +7,19 @@
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="### Error querying database. Cause: java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist ### The error may exist in com/example/web/mapper/UserMapper.java (best guess) ### The error may involve defaultParameterMap ### The error occurred while setting parameters ### SQL: SELECT id,login_name,password,real_name,roles FROM user_info_model WHERE (login_name = ?) ### Cause: java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist ; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist" />
+      <item value="No Args Constructor" />
+      <item value="Unknown column 'roles' in 'field list'" />
+      <item value="### Error querying database. Cause: java.sql.SQLSyntaxErrorException: Unknown column 'roles' in 'field list' ### The error may exist in com/example/web/mapper/UserMapper.java (best guess) ### The error may involve defaultParameterMap ### The error occurred while setting parameters ### SQL: SELECT id,login_name,password,real_name,roles FROM user_info WHERE (login_name = ?) ### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'roles' in 'field list' ; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'roles' in 'field list'" />
+      <item value="Indicates whether the user is enabled or disabled. A disabled user cannot be authenticated. Returns: true if the user is enabled, false otherwise" />
+      <item value="is Enabled" />
+      <item value="is Credentials Non Expired" />
+      <item value="is Account Non Locked" />
+      <item value="urls" />
+      <item value="ant Matchers" />
+      <item value="login Processing Url" />
+      <item value="未登录异常" />
+      <item value="未登录" />
       <item value="set Optimize Join" />
       <item value="String is not a functional interface&#10;" />
       <item value="is Account Non Expired" />
@@ -44,27 +57,15 @@
       <item value="SpendTime&#10;" />
       <item value="This is equivalent to calling getDeclaringType().getName(), but caches the result for greater efficiency." />
       <item value="LIKE" />
-      <item value="condition" />
-      <item value="Conditional On Missing Bean" />
-      <item value="Method annotated with @Bean is called directly. Use dependency injection instead.&#10;" />
-      <item value="Method annotated with @Bean is called directly. Use dependency injection instead." />
-      <item value="描述&#10;" />
-      <item value="explain" />
-      <item value="说明&#10;" />
-      <item value="启动说明&#10;" />
-      <item value="component" />
-      <item value="Markers" />
-      <item value="mysqld: Can't create/write to file 'F:  ools\MySql\data\is_writable' (Errcode: 2 - No such file or directory)&#10;2021-12-04T14:59:12.001608Z 0 [ERROR] Can't find error-message file 'F:\tools\MySql\mysql-5.7.27-winx64\bin\    ools\MySql\mysql-5.7.27-winx64\share\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.&#10;2021-12-04T14:59:12.003053Z 0 [ERROR] --initialize specified but the data directory exists and is not writable. Aborting.&#10;2021-12-04T14:59:12.003346Z 0 [ERROR] Aborting" />
-      <item value=" Found option without preceding group in config file F:\tools\MySql\mysql-5.7.27-winx64\my.ini at line 1!&#10;" />
-      <item value="java.nio.charset.MalformedInputException: Input length = 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="521" />
+        <entry key="ENGLISH" value="521" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
+        <entry key="SWEDISH" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
