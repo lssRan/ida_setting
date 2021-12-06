@@ -7,14 +7,20 @@
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="authenticated" />
+      <item value="any Request" />
+      <item value="is Account Non Expired" />
+      <item value="User credentials have expired" />
+      <item value="import com.baomidou.mybatisplus.extension.conditions.query.LambdaQueryChainWrapper;&#10;&#10;" />
+      <item value="is Account Non Locked" />
+      <item value="is Credentials Non Expired" />
+      <item value="User account is locked&#10;" />
       <item value="### Error querying database. Cause: java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist ### The error may exist in com/example/web/mapper/UserMapper.java (best guess) ### The error may involve defaultParameterMap ### The error occurred while setting parameters ### SQL: SELECT id,login_name,password,real_name,roles FROM user_info_model WHERE (login_name = ?) ### Cause: java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist ; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist" />
       <item value="No Args Constructor" />
       <item value="Unknown column 'roles' in 'field list'" />
       <item value="### Error querying database. Cause: java.sql.SQLSyntaxErrorException: Unknown column 'roles' in 'field list' ### The error may exist in com/example/web/mapper/UserMapper.java (best guess) ### The error may involve defaultParameterMap ### The error occurred while setting parameters ### SQL: SELECT id,login_name,password,real_name,roles FROM user_info WHERE (login_name = ?) ### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'roles' in 'field list' ; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'roles' in 'field list'" />
       <item value="Indicates whether the user is enabled or disabled. A disabled user cannot be authenticated. Returns: true if the user is enabled, false otherwise" />
       <item value="is Enabled" />
-      <item value="is Credentials Non Expired" />
-      <item value="is Account Non Locked" />
       <item value="urls" />
       <item value="ant Matchers" />
       <item value="login Processing Url" />
@@ -22,7 +28,6 @@
       <item value="未登录" />
       <item value="set Optimize Join" />
       <item value="String is not a functional interface&#10;" />
-      <item value="is Account Non Expired" />
       <item value="real_name&#10;" />
       <item value="realname&#10;" />
       <item value="realn_ame&#10;" />
@@ -52,16 +57,11 @@
       <item value="validate Failed" />
       <item value="MISSING PARAMETERS" />
       <item value="failure" />
-      <item value="Rest Controller Advice" />
-      <item value="set Time Cost" />
-      <item value="SpendTime&#10;" />
-      <item value="This is equivalent to calling getDeclaringType().getName(), but caches the result for greater efficiency." />
-      <item value="LIKE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="521" />
-        <entry key="ENGLISH" value="521" />
+        <entry key="CHINESE" value="528" />
+        <entry key="ENGLISH" value="529" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
