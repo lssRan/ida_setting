@@ -2,16 +2,21 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="716" />
+    <option name="newTranslationDialogWidth" value="714" />
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="String is not a functional interface&#10;" />
+      <item value="is Account Non Expired" />
+      <item value="real_name&#10;" />
+      <item value="realname&#10;" />
+      <item value="realn_ame&#10;" />
+      <item value="re" />
       <item value="exists&#10;" />
       <item value=" No database selected&#10;" />
       <item value="realn&#10;&#10;" />
       <item value="realn&#10;" />
-      <item value="realn_ame&#10;" />
       <item value="真实姓名&#10;" />
       <item value="realm Name" />
       <item value="login Page" />
@@ -52,16 +57,11 @@
       <item value=" Found option without preceding group in config file F:\tools\MySql\mysql-5.7.27-winx64\my.ini at line 1!&#10;" />
       <item value="java.nio.charset.MalformedInputException: Input length = 1" />
       <item value="&gt; Could not get unknown property 'line' for task ':bootProdJar' of type org.gradle.api.DefaultTask." />
-      <item value="Method 'customize(com.example.web.common.ResultCode)' is never used" />
-      <item value="Raw use of parameterized class 'ApiResult'" />
-      <item value="Unchecked call to 'ApiResult(ResultCode, T, TotalData)' as a member of raw type 'com.example.web.common.ApiResult'" />
-      <item value="-Xlint:unchecked" />
-      <item value="ע: G:\Demo\Web_Demo\SpringBootWeb\src\main\java\com\example\web\common\ApiResult.javaʹ����δ������ȫ�Ĳ�����&#10;ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="489" />
-        <entry key="ENGLISH" value="487" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="503" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
