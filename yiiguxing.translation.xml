@@ -7,6 +7,13 @@
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Credentials Non Expired" />
+      <item value="is Account Non Locked" />
+      <item value="is Account Non Expired" />
+      <item value="User credentials have expired" />
+      <item value="There is no PasswordEncoder mapped for the id &quot;null&quot;" />
+      <item value="==&gt; Preparing: select `r_id`,`role`,`role_cn` from phone_sms.system_role_info r,phone_sms.system_user_role u where r.id=u.id and u.u_id=? 2021-12-07 15:56:43.814 DEBUG 15668 --- [nio-9528-exec-4] c.e.w.m.UserMapper.findUserRoleByUserId : ==&gt; Parameters: 1(Long) 2021-12-07 15:56:43.816 DEBUG 15668 --- [nio-9528-exec-4] c.e.w.m.UserMapper.findUserRoleByUserId : &lt;== Total: 1" />
+      <item value="Compilation failed; see the compiler error output for details." />
       <item value="default Success Url" />
       <item value="failure Url" />
       <item value="login Page" />
@@ -35,11 +42,7 @@
       <item value="Not Null" />
       <item value="authenticated" />
       <item value="any Request" />
-      <item value="is Account Non Expired" />
-      <item value="User credentials have expired" />
       <item value="import com.baomidou.mybatisplus.extension.conditions.query.LambdaQueryChainWrapper;&#10;&#10;" />
-      <item value="is Account Non Locked" />
-      <item value="is Credentials Non Expired" />
       <item value="User account is locked&#10;" />
       <item value="### Error querying database. Cause: java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist ### The error may exist in com/example/web/mapper/UserMapper.java (best guess) ### The error may involve defaultParameterMap ### The error occurred while setting parameters ### SQL: SELECT id,login_name,password,real_name,roles FROM user_info_model WHERE (login_name = ?) ### Cause: java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist ; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist" />
       <item value="No Args Constructor" />
@@ -54,14 +57,11 @@
       <item value="set Optimize Join" />
       <item value="String is not a functional interface&#10;" />
       <item value="real_name&#10;" />
-      <item value="realname&#10;" />
-      <item value="realn_ame&#10;" />
-      <item value="re" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="567" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="576" />
+        <entry key="ENGLISH" value="577" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
