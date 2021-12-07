@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Scheduling Task" />
       <item value="class com.example.web.model.entity.HeartbeatModel ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method." />
       <item value="WARNING: An illegal reflective access operation has occurred WARNING: Illegal reflective access by com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction (file:D:RepositoryGradlecachesmodules-2files-2.1com.baomidoumybatis-plus-core3.4.3.34ac9fb819f2de32a69879fd1d635d1ae47e89dd0mybatis-plus-core-3.4.3.3.jar) to field java.lang.invoke.SerializedLambda.capturingClass WARNING: Please consider reporting this to the maintainers of com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near" />
@@ -56,12 +57,11 @@
       <item value="any Request" />
       <item value="import com.baomidou.mybatisplus.extension.conditions.query.LambdaQueryChainWrapper;&#10;&#10;" />
       <item value="User account is locked&#10;" />
-      <item value="### Error querying database. Cause: java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist ### The error may exist in com/example/web/mapper/UserMapper.java (best guess) ### The error may involve defaultParameterMap ### The error occurred while setting parameters ### SQL: SELECT id,login_name,password,real_name,roles FROM user_info_model WHERE (login_name = ?) ### Cause: java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist ; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="596" />
-        <entry key="ENGLISH" value="597" />
+        <entry key="CHINESE" value="597" />
+        <entry key="ENGLISH" value="598" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
