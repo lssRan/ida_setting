@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Lately Location Info" />
       <item value="Json Property" />
       <item value="模板&#10;" />
       <item value="UNDERLINE YYYY MM" />
@@ -56,12 +57,11 @@
       <item value="update Manual Write Off Status" />
       <item value="Around" />
       <item value="Before" />
-      <item value="Illegal forward reference" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="561" />
+        <entry key="ENGLISH" value="562" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
