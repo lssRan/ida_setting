@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Invalid bound statement (not found): com.example.web.mapper.AppMapper.selectList]" />
+      <item value="Invalid bound statement (not found): com.example.web.mapper.AppMapper.selectList&#10;" />
+      <item value="Invalid bound statement (not found): com.example.web.mapper.AppMapper.selectList" />
+      <item value="login Processing Url" />
       <item value="Consider defining a bean of type 'com.example.web.service.impl.AppServiceImpl' in your configuration.&#10;" />
       <item value="Parameter 0 of constructor in com.example.web.controller.AppController required a bean of type 'com.example.web.service.impl.AppServiceImpl' that could not be found.&#10;&#10;" />
       <item value="Parameter 0 of constructor in com.example.web.controller.AppController required a bean of type 'com.example.web.service.impl.AppServiceImpl' that could not be found.&#10;" />
@@ -40,7 +44,6 @@
       <item value="is Enabled" />
       <item value="urls" />
       <item value="ant Matchers" />
-      <item value="login Processing Url" />
       <item value="未登录异常" />
       <item value="未登录" />
       <item value="set Optimize Join" />
@@ -54,14 +57,11 @@
       <item value="realn&#10;&#10;" />
       <item value="realn&#10;" />
       <item value="真实姓名&#10;" />
-      <item value="realm Name" />
-      <item value="login Page" />
-      <item value="failure Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="563" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="CHINESE" value="564" />
+        <entry key="ENGLISH" value="564" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
