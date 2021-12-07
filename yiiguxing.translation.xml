@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="MINUS ONE" />
+      <item value="MINUSONE" />
+      <item value="determine If Online" />
       <item value="Scheduling Task" />
       <item value="class com.example.web.model.entity.HeartbeatModel ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method." />
       <item value="WARNING: An illegal reflective access operation has occurred WARNING: Illegal reflective access by com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction (file:D:RepositoryGradlecachesmodules-2files-2.1com.baomidoumybatis-plus-core3.4.3.34ac9fb819f2de32a69879fd1d635d1ae47e89dd0mybatis-plus-core-3.4.3.3.jar) to field java.lang.invoke.SerializedLambda.capturingClass WARNING: Please consider reporting this to the maintainers of com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
@@ -54,14 +57,12 @@
       <item value="创建时间" />
       <item value="Not Null" />
       <item value="authenticated" />
-      <item value="any Request" />
-      <item value="import com.baomidou.mybatisplus.extension.conditions.query.LambdaQueryChainWrapper;&#10;&#10;" />
-      <item value="User account is locked&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="597" />
-        <entry key="ENGLISH" value="598" />
+        <entry key="CHINESE" value="599" />
+        <entry key="ENGLISH" value="600" />
+        <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
