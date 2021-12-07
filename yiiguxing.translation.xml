@@ -2,11 +2,22 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="706" />
+    <option name="newTranslationDialogWidth" value="704" />
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="class com.example.web.model.entity.HeartbeatModel ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method." />
+      <item value="WARNING: An illegal reflective access operation has occurred WARNING: Illegal reflective access by com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction (file:D:RepositoryGradlecachesmodules-2files-2.1com.baomidoumybatis-plus-core3.4.3.34ac9fb819f2de32a69879fd1d635d1ae47e89dd0mybatis-plus-core-3.4.3.3.jar) to field java.lang.invoke.SerializedLambda.capturingClass WARNING: Please consider reporting this to the maintainers of com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near" />
+      <item value="&#10;### Error updating database.  Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'to,&#10;content,&#10;sms_center,&#10;time,&#10;ip,&#10;longitude,&#10;latitude,&#10;address )  VALUES  ( '96' at line 5&#10;### The error may exist in com/example/web/mapper/MessageMapper.java (best guess)&#10;### The error may involve com.example.web.mapper.MessageMapper.insert-Inline&#10;### The error occurred while setting parameters&#10;### SQL: INSERT INTO phone_message  ( md5, meid, card_number, `from`, to, content, sms_center, time, ip, longitude, latitude, address )  VALUES  ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ? )&#10;### Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'to,&#10;content,&#10;sms_center,&#10;time,&#10;ip,&#10;longitude,&#10;latitude,&#10;address )  VALUES  ( '96' at line 5&#10;; bad SQL grammar []" />
+      <item value="来自&#10;" />
+      <item value="来源" />
+      <item value="来源&#10;" />
+      <item value="f" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from," />
+      <item value="get Longitude" />
+      <item value="get Latitude" />
       <item value="2021-12-07 16:15:22.222  WARN 16620 --- [nio-9528-exec-3] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.jdbc.UncategorizedSQLException: &lt;CR&gt;&lt;LF&gt;### Error updating database.  Cause: java.sql.SQLException: sql injection violation, dbType mysql, , druid-version 1.2.8, syntax error: not supported.pos 52, line 1, column 52, token , : insert into phone_sms.phone_location_2021_12 `meid`, `longitude`, `latitude`, `address`,`time` values(?,?,?,?,?)&lt;CR&gt;&lt;LF&gt;### The error may exist in com/example/web/mapper/LocationMapper.java (best guess)&lt;CR&gt;&lt;LF&gt;### The error may involve com.example.web.mapper.LocationMapper.insertLocationInfo&lt;CR&gt;&lt;LF&gt;### The error occurred while executing an update&lt;CR&gt;&lt;LF&gt;### SQL: insert into phone_sms.phone_location_2021_12 `meid`, `longitude`, `latitude`, `address`,`time` values(?,?,?,?,?)&lt;CR&gt;&lt;LF&gt;### Cause: java.sql.SQLException: sql injection violation, dbType mysql, , druid-version 1.2.8, syntax error: not supported.pos 52, line 1, column 52, token , : insert into phone_sms.phone_location_2021_12 `meid`, `longitude`, `latitude`, `address`,`time` values(?,?,?,?,?)&lt;LF&gt;; uncategorized SQLException; SQL state [null]; error code [0]; sql injection violation, dbType mysql, , druid-version 1.2.8, syntax error: not supported.pos 52, line 1, column 52, token , : insert into phone_sms.phone_location_2021_12 `meid`, `longitude`, `latitude`, `address`,`time` values(?,?,?,?,?); nested exception is java.sql.SQLException: sql injection violation, dbType mysql, , druid-version 1.2.8, syntax error: not supported.pos 52, line 1, column 52, token , : insert into phone_sms.phone_location_2021_12 `meid`, `longitude`, `latitude`, `address`,`time` values(?,?,?,?,?)]&#10;" />
       <item value="is Credentials Non Expired" />
       <item value="is Account Non Locked" />
@@ -46,22 +57,11 @@
       <item value="import com.baomidou.mybatisplus.extension.conditions.query.LambdaQueryChainWrapper;&#10;&#10;" />
       <item value="User account is locked&#10;" />
       <item value="### Error querying database. Cause: java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist ### The error may exist in com/example/web/mapper/UserMapper.java (best guess) ### The error may involve defaultParameterMap ### The error occurred while setting parameters ### SQL: SELECT id,login_name,password,real_name,roles FROM user_info_model WHERE (login_name = ?) ### Cause: java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist ; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'phone_sms.user_info_model' doesn't exist" />
-      <item value="No Args Constructor" />
-      <item value="Unknown column 'roles' in 'field list'" />
-      <item value="### Error querying database. Cause: java.sql.SQLSyntaxErrorException: Unknown column 'roles' in 'field list' ### The error may exist in com/example/web/mapper/UserMapper.java (best guess) ### The error may involve defaultParameterMap ### The error occurred while setting parameters ### SQL: SELECT id,login_name,password,real_name,roles FROM user_info WHERE (login_name = ?) ### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'roles' in 'field list' ; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Unknown column 'roles' in 'field list'" />
-      <item value="Indicates whether the user is enabled or disabled. A disabled user cannot be authenticated. Returns: true if the user is enabled, false otherwise" />
-      <item value="is Enabled" />
-      <item value="urls" />
-      <item value="ant Matchers" />
-      <item value="未登录异常" />
-      <item value="未登录" />
-      <item value="set Optimize Join" />
-      <item value="String is not a functional interface&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="577" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="CHINESE" value="596" />
+        <entry key="ENGLISH" value="597" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
