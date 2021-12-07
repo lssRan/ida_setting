@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Object is not a functional interface&#10;" />
       <item value="短信&#10;" />
       <item value="OPERATING SYSTEM URL" />
       <item value="invalidate" />
@@ -56,11 +57,10 @@
       <item value="Connection reset" />
       <item value="Parameter 0 of constructor in com.example.web.config.WebConfig required a bean of type 'com.example.web.interceptor.LoginInterceptor' that could not be found.&#10;" />
       <item value="org.yaml.snakeyaml.scanner.ScannerException: while scanning for the next token found character '@' that cannot start any token. (Do not use @ for indentation)" />
-      <item value="found character '@' that cannot start any token. (Do not use @ for indentation)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="552" />
+        <entry key="CHINESE" value="553" />
         <entry key="ENGLISH" value="553" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
