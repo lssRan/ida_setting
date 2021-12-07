@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="2021-12-07 14:48:45.621  WARN 9540 --- [nio-9528-exec-9] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Integer'. Check configuration for 'versionCode']&#10;" />
+      <item value="WARNING: An illegal reflective access operation has occurred&#10;WARNING: Illegal reflective access by com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction (file:/D:/Repository/Gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-core/3.4.3.3/4ac9fb819f2de32a69879fd1d635d1ae47e89dd0/mybatis-plus-core-3.4.3.3.jar) to field java.lang.invoke.SerializedLambda.capturingClass&#10;WARNING: Please consider reporting this to the maintainers of com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction&#10;WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations&#10;WARNING: All illegal access operations will be denied in a future release&#10;" />
       <item value="Invalid bound statement (not found): com.example.web.mapper.AppMapper.selectList]" />
       <item value="Invalid bound statement (not found): com.example.web.mapper.AppMapper.selectList&#10;" />
       <item value="Invalid bound statement (not found): com.example.web.mapper.AppMapper.selectList" />
@@ -55,12 +57,10 @@
       <item value="exists&#10;" />
       <item value=" No database selected&#10;" />
       <item value="realn&#10;&#10;" />
-      <item value="realn&#10;" />
-      <item value="真实姓名&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="564" />
+        <entry key="CHINESE" value="566" />
         <entry key="ENGLISH" value="564" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
