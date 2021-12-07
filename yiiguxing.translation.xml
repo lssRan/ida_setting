@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="2021-12-07 16:15:22.222  WARN 16620 --- [nio-9528-exec-3] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.jdbc.UncategorizedSQLException: &lt;CR&gt;&lt;LF&gt;### Error updating database.  Cause: java.sql.SQLException: sql injection violation, dbType mysql, , druid-version 1.2.8, syntax error: not supported.pos 52, line 1, column 52, token , : insert into phone_sms.phone_location_2021_12 `meid`, `longitude`, `latitude`, `address`,`time` values(?,?,?,?,?)&lt;CR&gt;&lt;LF&gt;### The error may exist in com/example/web/mapper/LocationMapper.java (best guess)&lt;CR&gt;&lt;LF&gt;### The error may involve com.example.web.mapper.LocationMapper.insertLocationInfo&lt;CR&gt;&lt;LF&gt;### The error occurred while executing an update&lt;CR&gt;&lt;LF&gt;### SQL: insert into phone_sms.phone_location_2021_12 `meid`, `longitude`, `latitude`, `address`,`time` values(?,?,?,?,?)&lt;CR&gt;&lt;LF&gt;### Cause: java.sql.SQLException: sql injection violation, dbType mysql, , druid-version 1.2.8, syntax error: not supported.pos 52, line 1, column 52, token , : insert into phone_sms.phone_location_2021_12 `meid`, `longitude`, `latitude`, `address`,`time` values(?,?,?,?,?)&lt;LF&gt;; uncategorized SQLException; SQL state [null]; error code [0]; sql injection violation, dbType mysql, , druid-version 1.2.8, syntax error: not supported.pos 52, line 1, column 52, token , : insert into phone_sms.phone_location_2021_12 `meid`, `longitude`, `latitude`, `address`,`time` values(?,?,?,?,?); nested exception is java.sql.SQLException: sql injection violation, dbType mysql, , druid-version 1.2.8, syntax error: not supported.pos 52, line 1, column 52, token , : insert into phone_sms.phone_location_2021_12 `meid`, `longitude`, `latitude`, `address`,`time` values(?,?,?,?,?)]&#10;" />
       <item value="is Credentials Non Expired" />
       <item value="is Account Non Locked" />
       <item value="is Account Non Expired" />
@@ -56,11 +57,10 @@
       <item value="未登录" />
       <item value="set Optimize Join" />
       <item value="String is not a functional interface&#10;" />
-      <item value="real_name&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
+        <entry key="CHINESE" value="577" />
         <entry key="ENGLISH" value="577" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
