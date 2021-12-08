@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="704" />
+    <option name="newTranslationDialogWidth" value="702" />
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="[ERROR] No goals have been specified for this build. You must specify a valid lifecycle phase or a goal in the format &lt;plugin-prefix&gt;:&lt;goal&gt; or &lt;plugin-group-id&gt;:&lt;plugin-artifact-id&gt;[:&lt;plugin-version&gt;]:&lt;goal&gt;. Available lifecycle phases are: validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy. -&gt; [Help 1]&#10;" />
+      <item value=" For more information about the errors and possible solutions, please read the following articles" />
+      <item value="For more information about the errors and possible solutions, please read the following articles" />
       <item value="hint: not have locally. This is usually caused by another repository pushing hint: to the same ref. You may want to first integrate the remote changes hint: (e.g., 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
       <item value="Failed to connect to localhost port 3000 after 150220 ms: Connection refused" />
       <item value="between" />
@@ -54,13 +57,10 @@
       <item value="Unchecked call to 'update(T, Wrapper&lt;T&gt;)' as a member of raw type 'com.baomidou.mybatisplus.core.mapper.BaseMapper'&#10;" />
       <item value="Object is not a functional interface&#10;" />
       <item value="短信&#10;" />
-      <item value="OPERATING SYSTEM URL" />
-      <item value="invalidate" />
-      <item value="LINK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="603" />
+        <entry key="CHINESE" value="605" />
         <entry key="ENGLISH" value="604" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
