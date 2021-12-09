@@ -2,11 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="694" />
+    <option name="newTranslationDialogWidth" value="692" />
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="子节点&#10;" />
+      <item value="zi'jie'dian" />
+      <item value="zi" />
+      <item value="get Childrens" />
+      <item value=" element cannot be mapped to a null key&#10;" />
+      <item value="recursion Fn" />
       <item value="map To Entity" />
       <item value="查询条件" />
       <item value="查询条件&#10;" />
@@ -51,17 +57,11 @@
       <item value="User credentials have expired" />
       <item value="There is no PasswordEncoder mapped for the id &quot;null&quot;" />
       <item value="==&gt; Preparing: select `r_id`,`role`,`role_cn` from phone_sms.system_role_info r,phone_sms.system_user_role u where r.id=u.id and u.u_id=? 2021-12-07 15:56:43.814 DEBUG 15668 --- [nio-9528-exec-4] c.e.w.m.UserMapper.findUserRoleByUserId : ==&gt; Parameters: 1(Long) 2021-12-07 15:56:43.816 DEBUG 15668 --- [nio-9528-exec-4] c.e.w.m.UserMapper.findUserRoleByUserId : &lt;== Total: 1" />
-      <item value="Compilation failed; see the compiler error output for details." />
-      <item value="default Success Url" />
-      <item value="failure Url" />
-      <item value="login Page" />
-      <item value="2021-12-07 14:48:45.621  WARN 9540 --- [nio-9528-exec-9] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'java.lang.Integer'. Check configuration for 'versionCode']&#10;" />
-      <item value="WARNING: An illegal reflective access operation has occurred&#10;WARNING: Illegal reflective access by com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction (file:/D:/Repository/Gradle/caches/modules-2/files-2.1/com.baomidou/mybatis-plus-core/3.4.3.3/4ac9fb819f2de32a69879fd1d635d1ae47e89dd0/mybatis-plus-core-3.4.3.3.jar) to field java.lang.invoke.SerializedLambda.capturingClass&#10;WARNING: Please consider reporting this to the maintainers of com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction&#10;WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations&#10;WARNING: All illegal access operations will be denied in a future release&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="625" />
-        <entry key="ENGLISH" value="626" />
+        <entry key="CHINESE" value="637" />
+        <entry key="ENGLISH" value="637" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
