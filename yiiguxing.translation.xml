@@ -2,11 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="698" />
+    <option name="newTranslationDialogWidth" value="696" />
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="169" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sms&#10;" />
+      <item value="位置&#10;" />
       <item value="table_write_off_违约金" />
       <item value="table_write_off_违约" />
       <item value="table_write_off_违" />
@@ -55,13 +57,11 @@
       <item value="Invalid bound statement (not found): com.example.web.mapper.AppMapper.selectList&#10;" />
       <item value="Invalid bound statement (not found): com.example.web.mapper.AppMapper.selectList" />
       <item value="login Processing Url" />
-      <item value="Consider defining a bean of type 'com.example.web.service.impl.AppServiceImpl' in your configuration.&#10;" />
-      <item value="Parameter 0 of constructor in com.example.web.controller.AppController required a bean of type 'com.example.web.service.impl.AppServiceImpl' that could not be found.&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="607" />
-        <entry key="ENGLISH" value="608" />
+        <entry key="CHINESE" value="617" />
+        <entry key="ENGLISH" value="617" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="2" />
