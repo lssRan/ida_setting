@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#10;### Error updating database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'type' in 'field list'&#10;### The error may exist in com/example/web/mapper/SupplierMapper.java (best guess)&#10;### The error may involve com.example.web.mapper.SupplierMapper.insertMd5Key-Inline&#10;### The error occurred while setting parameters&#10;### SQL: insert into supplier.across_system_code values(?,?,?) on duplicate key update `logname` = ?,`type` = ?&#10;### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'type' in 'field list'&#10;; bad SQL grammar []" />
+      <item value="&#10;### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'lhf-kehu' for key 'PRIMARY'&#10;### The error may exist in com/example/web/mapper/SupplierMapper.java (best guess)&#10;### The error may involve com.example.web.mapper.SupplierMapper.insertMd5Key-Inline&#10;### The error occurred while setting parameters&#10;### SQL: insert into supplier.across_system_code values(?,?,?)&#10;### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'lhf-kehu' for key 'PRIMARY'&#10;; Duplicate entry 'lhf-kehu' for key 'PRIMARY'" />
+      <item value="dynamic-datasource can not find primary datasource" />
       <item value="get Random Character" />
       <item value="verify Md 5" />
       <item value="log4j-slf4j-impl cannot be present with log4j-to-slf4j" />
@@ -54,14 +57,11 @@
       <item value=" For more information about the errors and possible solutions, please read the following articles" />
       <item value="For more information about the errors and possible solutions, please read the following articles" />
       <item value="hint: not have locally. This is usually caused by another repository pushing hint: to the same ref. You may want to first integrate the remote changes hint: (e.g., 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
-      <item value="Failed to connect to localhost port 3000 after 150220 ms: Connection refused" />
-      <item value="between" />
-      <item value="@TableId can't more than one in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="688" />
+        <entry key="CHINESE" value="690" />
+        <entry key="ENGLISH" value="689" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
