@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="686" />
+    <option name="newTranslationDialogWidth" value="682" />
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="财务&#10;" />
+      <item value="运营&#10;" />
+      <item value="yun'ying" />
       <item value="&#10;### Error updating database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'type' in 'field list'&#10;### The error may exist in com/example/web/mapper/SupplierMapper.java (best guess)&#10;### The error may involve com.example.web.mapper.SupplierMapper.insertMd5Key-Inline&#10;### The error occurred while setting parameters&#10;### SQL: insert into supplier.across_system_code values(?,?,?) on duplicate key update `logname` = ?,`type` = ?&#10;### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'type' in 'field list'&#10;; bad SQL grammar []" />
       <item value="&#10;### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'lhf-kehu' for key 'PRIMARY'&#10;### The error may exist in com/example/web/mapper/SupplierMapper.java (best guess)&#10;### The error may involve com.example.web.mapper.SupplierMapper.insertMd5Key-Inline&#10;### The error occurred while setting parameters&#10;### SQL: insert into supplier.across_system_code values(?,?,?)&#10;### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'lhf-kehu' for key 'PRIMARY'&#10;; Duplicate entry 'lhf-kehu' for key 'PRIMARY'" />
       <item value="dynamic-datasource can not find primary datasource" />
@@ -54,14 +57,11 @@
       <item value="Error resolving template [customer/bankRepaymentZwl], template might not exist or might not be accessible by any of the configured Template Resolvers&quot;&#10;" />
       <item value="bank Repayment Transfer Contacts" />
       <item value="[ERROR] No goals have been specified for this build. You must specify a valid lifecycle phase or a goal in the format &lt;plugin-prefix&gt;:&lt;goal&gt; or &lt;plugin-group-id&gt;:&lt;plugin-artifact-id&gt;[:&lt;plugin-version&gt;]:&lt;goal&gt;. Available lifecycle phases are: validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy. -&gt; [Help 1]&#10;" />
-      <item value=" For more information about the errors and possible solutions, please read the following articles" />
-      <item value="For more information about the errors and possible solutions, please read the following articles" />
-      <item value="hint: not have locally. This is usually caused by another repository pushing hint: to the same ref. You may want to first integrate the remote changes hint: (e.g., 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="690" />
-        <entry key="ENGLISH" value="689" />
+        <entry key="CHINESE" value="704" />
+        <entry key="ENGLISH" value="703" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
