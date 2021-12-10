@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Errcode: 2 - No such file or directory" />
+      <item value="Can't createwrite to file 'C:\Users\57372\Desktop' (Errcode: 13 - Permission denied)" />
       <item value="Truncated incorrect DOUBLE value" />
       <item value="ExceptionInInitializerError" />
       <item value="Handler dispatch failed" />
@@ -55,13 +57,11 @@
       <item value="table_write_off_违约" />
       <item value="table_write_off_违" />
       <item value="An error happened during template parsing" />
-      <item value="payment slip verification" />
-      <item value="discard long time none received connection" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="706" />
-        <entry key="ENGLISH" value="705" />
+        <entry key="ENGLISH" value="707" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
