@@ -2,11 +2,20 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="690" />
+    <option name="newTranslationDialogWidth" value="686" />
     <option name="newTranslationDialogX" value="389" />
-    <option name="newTranslationDialogY" value="169" />
+    <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lt" />
+      <item value="longitude" />
+      <item value="默认&#10;" />
+      <item value="默认" />
+      <item value="params&#10;" />
+      <item value="参数&#10;" />
+      <item value="param" />
+      <item value="failure" />
+      <item value="latitude" />
       <item value="require Non Null" />
       <item value="set Table Name Handler" />
       <item value="com.example.web.model.entity.Sim Card Model.set Num Page(java.lang.Long)" />
@@ -48,24 +57,17 @@
       <item value="MINUS ONE" />
       <item value="MINUSONE" />
       <item value="determine If Online" />
-      <item value="Scheduling Task" />
-      <item value="class com.example.web.model.entity.HeartbeatModel ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method." />
-      <item value="WARNING: An illegal reflective access operation has occurred WARNING: Illegal reflective access by com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction (file:D:RepositoryGradlecachesmodules-2files-2.1com.baomidoumybatis-plus-core3.4.3.34ac9fb819f2de32a69879fd1d635d1ae47e89dd0mybatis-plus-core-3.4.3.3.jar) to field java.lang.invoke.SerializedLambda.capturingClass WARNING: Please consider reporting this to the maintainers of com.baomidou.mybatisplus.core.toolkit.SetAccessibleAction WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
-      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near" />
-      <item value="&#10;### Error updating database.  Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'to,&#10;content,&#10;sms_center,&#10;time,&#10;ip,&#10;longitude,&#10;latitude,&#10;address )  VALUES  ( '96' at line 5&#10;### The error may exist in com/example/web/mapper/MessageMapper.java (best guess)&#10;### The error may involve com.example.web.mapper.MessageMapper.insert-Inline&#10;### The error occurred while setting parameters&#10;### SQL: INSERT INTO phone_message  ( md5, meid, card_number, `from`, to, content, sms_center, time, ip, longitude, latitude, address )  VALUES  ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ? )&#10;### Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'to,&#10;content,&#10;sms_center,&#10;time,&#10;ip,&#10;longitude,&#10;latitude,&#10;address )  VALUES  ( '96' at line 5&#10;; bad SQL grammar []" />
-      <item value="来自&#10;" />
-      <item value="来源" />
-      <item value="来源&#10;" />
-      <item value="f" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="660" />
-        <entry key="ENGLISH" value="661" />
+        <entry key="CHINESE" value="684" />
+        <entry key="ENGLISH" value="684" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
+        <entry key="LITHUANIAN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
