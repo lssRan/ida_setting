@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="log4j-slf4j-impl cannot be present with log4j-to-slf4j" />
       <item value="lt" />
       <item value="longitude" />
       <item value="默认&#10;" />
@@ -56,12 +57,11 @@
       <item value="@TableId can't more than one in" />
       <item value="MINUS ONE" />
       <item value="MINUSONE" />
-      <item value="determine If Online" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="684" />
-        <entry key="ENGLISH" value="684" />
+        <entry key="CHINESE" value="685" />
+        <entry key="ENGLISH" value="686" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
