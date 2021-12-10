@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Random Character" />
+      <item value="verify Md 5" />
       <item value="log4j-slf4j-impl cannot be present with log4j-to-slf4j" />
       <item value="lt" />
       <item value="longitude" />
@@ -55,13 +57,11 @@
       <item value="Failed to connect to localhost port 3000 after 150220 ms: Connection refused" />
       <item value="between" />
       <item value="@TableId can't more than one in" />
-      <item value="MINUS ONE" />
-      <item value="MINUSONE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="685" />
-        <entry key="ENGLISH" value="686" />
+        <entry key="CHINESE" value="687" />
+        <entry key="ENGLISH" value="688" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
