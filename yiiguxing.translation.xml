@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="674" />
+    <option name="newTranslationDialogWidth" value="672" />
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="阿里粑粑" />
+      <item value="阿里ba'ba" />
+      <item value="阿里z" />
       <item value="邮箱&#10;" />
       <item value="you'x" />
       <item value="邮箱" />
@@ -54,14 +57,11 @@
       <item value="purchaser" />
       <item value="上一页&#10;" />
       <item value="上一页" />
-      <item value="子节点&#10;" />
-      <item value="zi'jie'dian" />
-      <item value="zi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="750" />
+        <entry key="ENGLISH" value="751" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
