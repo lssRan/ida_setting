@@ -2,11 +2,22 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="680" />
+    <option name="newTranslationDialogWidth" value="674" />
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="邮箱&#10;" />
+      <item value="you'x" />
+      <item value="邮箱" />
+      <item value="客户邮箱" />
+      <item value="客户邮箱&#10;" />
+      <item value="Class path contains multiple SLF4J bindings." />
+      <item value="log4j-slf4j-impl cannot be present with log4j-to-slf4j" />
+      <item value="SLF4J: Class path contains multiple SLF4J bindings." />
+      <item value="Created RestartClassLoader org.springframework.boot.devtools.restart.classloader" />
+      <item value="Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]" />
+      <item value=" Class path contains multiple SLF4J bindings." />
       <item value="详情&#10;" />
       <item value="dateil" />
       <item value="da'te" />
@@ -24,7 +35,6 @@
       <item value="dynamic-datasource can not find primary datasource" />
       <item value="get Random Character" />
       <item value="verify Md 5" />
-      <item value="log4j-slf4j-impl cannot be present with log4j-to-slf4j" />
       <item value="lt" />
       <item value="longitude" />
       <item value="默认&#10;" />
@@ -47,21 +57,11 @@
       <item value="子节点&#10;" />
       <item value="zi'jie'dian" />
       <item value="zi" />
-      <item value="get Childrens" />
-      <item value=" element cannot be mapped to a null key&#10;" />
-      <item value="recursion Fn" />
-      <item value="map To Entity" />
-      <item value="查询条件" />
-      <item value="查询条件&#10;" />
-      <item value="查询tiao" />
-      <item value="sms&#10;" />
-      <item value="位置&#10;" />
-      <item value="table_write_off_违约金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="720" />
-        <entry key="ENGLISH" value="720" />
+        <entry key="CHINESE" value="746" />
+        <entry key="ENGLISH" value="747" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
