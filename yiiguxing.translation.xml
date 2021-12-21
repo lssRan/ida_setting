@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="org.apache.ibatis.logging.stdout.Std Out Impl" />
+      <item value="use-generated-keys" />
+      <item value="auto Result Map" />
       <item value="Appender Ref" />
       <item value="additivity" />
       <item value="For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'" />
@@ -54,14 +57,11 @@
       <item value="&#10;### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'lhf-kehu' for key 'PRIMARY'&#10;### The error may exist in com/example/web/mapper/SupplierMapper.java (best guess)&#10;### The error may involve com.example.web.mapper.SupplierMapper.insertMd5Key-Inline&#10;### The error occurred while setting parameters&#10;### SQL: insert into supplier.across_system_code values(?,?,?)&#10;### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'lhf-kehu' for key 'PRIMARY'&#10;; Duplicate entry 'lhf-kehu' for key 'PRIMARY'" />
       <item value="dynamic-datasource can not find primary datasource" />
       <item value="get Random Character" />
-      <item value="verify Md 5" />
-      <item value="lt" />
-      <item value="longitude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="763" />
-        <entry key="ENGLISH" value="764" />
+        <entry key="CHINESE" value="766" />
+        <entry key="ENGLISH" value="767" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
