@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="offset Day" />
+      <item value="between" />
+      <item value="DAY OF YEAR" />
       <item value="ID UPDATE ALIBABA BILL CONFIG" />
       <item value="批量&#10;" />
       <item value="load Forcibly Signature Category" />
@@ -54,14 +57,11 @@
       <item value="set Table Name Handler" />
       <item value="com.example.web.model.entity.Sim Card Model.set Num Page(java.lang.Long)" />
       <item value="com.example.web.model.entity.Sim Card Model.set Page Id(java.lang.String)" />
-      <item value="2021-12-10 09:35:10.211  INFO 17464 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'&#10;" />
-      <item value="2021-12-10 09:35:10.209  INFO 17464 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable&#10;" />
-      <item value="get Sim Card Info By Phone Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="752" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="CHINESE" value="755" />
+        <entry key="ENGLISH" value="756" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
