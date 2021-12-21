@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="All illegal access operations will be denied in a future release" />
+      <item value="An illegal reflective access operation has occurred" />
+      <item value="org.springframework.data.redis.serializer.SerializationException: Cannot serialize; nested exception is org.springframework.core.serializer.support.SerializationFailedException: Failed to serialize object using DefaultSerializer; nested exception is java.io.NotSerializableException: com.example.web.model.entity.SystemRoleInfoModel&#10;" />
       <item value="DefaultSerializer requires a Serializable payload but received an object of type" />
       <item value="Failed to serialize object using DefaultSerializer; nested exception is java.lang.IllegalArgumentException: DefaultSerializer requires a Serializable payload but received an object of type [com.example.web.model.vo.UserInfoVo]" />
       <item value="org.apache.ibatis.logging.stdout.Std Out Impl" />
@@ -54,14 +57,11 @@
       <item value="com/alibaba/fastjson/serializer/SerializerFeature" />
       <item value="财务&#10;" />
       <item value="运营&#10;" />
-      <item value="yun'ying" />
-      <item value="&#10;### Error updating database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'type' in 'field list'&#10;### The error may exist in com/example/web/mapper/SupplierMapper.java (best guess)&#10;### The error may involve com.example.web.mapper.SupplierMapper.insertMd5Key-Inline&#10;### The error occurred while setting parameters&#10;### SQL: insert into supplier.across_system_code values(?,?,?) on duplicate key update `logname` = ?,`type` = ?&#10;### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'type' in 'field list'&#10;; bad SQL grammar []" />
-      <item value="&#10;### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'lhf-kehu' for key 'PRIMARY'&#10;### The error may exist in com/example/web/mapper/SupplierMapper.java (best guess)&#10;### The error may involve com.example.web.mapper.SupplierMapper.insertMd5Key-Inline&#10;### The error occurred while setting parameters&#10;### SQL: insert into supplier.across_system_code values(?,?,?)&#10;### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'lhf-kehu' for key 'PRIMARY'&#10;; Duplicate entry 'lhf-kehu' for key 'PRIMARY'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="767" />
-        <entry key="ENGLISH" value="768" />
+        <entry key="CHINESE" value="769" />
+        <entry key="ENGLISH" value="770" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
