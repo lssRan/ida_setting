@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="274" />
-    <option name="newTranslationDialogWidth" value="670" />
+    <option name="newTranslationDialogWidth" value="668" />
     <option name="newTranslationDialogX" value="389" />
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="LOG PATTERN HIGHLIGHT" />
+      <item value="Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead." />
+      <item value="Empty conversion specifier starting at position 52 in conversion pattern." />
       <item value="offset Day" />
       <item value="between" />
       <item value="DAY OF YEAR" />
@@ -54,14 +57,11 @@
       <item value="failure" />
       <item value="latitude" />
       <item value="require Non Null" />
-      <item value="set Table Name Handler" />
-      <item value="com.example.web.model.entity.Sim Card Model.set Num Page(java.lang.Long)" />
-      <item value="com.example.web.model.entity.Sim Card Model.set Page Id(java.lang.String)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="755" />
-        <entry key="ENGLISH" value="756" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="758" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
