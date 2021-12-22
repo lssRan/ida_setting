@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="disable Focus" />
+      <item value="show Meridian" />
+      <item value="show Seconds" />
+      <item value="minute Step" />
+      <item value="show Widget" />
       <item value="型号" />
       <item value="型号&#10;" />
       <item value="All illegal access operations will be denied in a future release" />
@@ -52,16 +57,11 @@
       <item value="dateil" />
       <item value="da'te" />
       <item value="Errcode: 2 - No such file or directory" />
-      <item value="Can't createwrite to file 'C:\Users\57372\Desktop' (Errcode: 13 - Permission denied)" />
-      <item value="Truncated incorrect DOUBLE value" />
-      <item value="ExceptionInInitializerError" />
-      <item value="Handler dispatch failed" />
-      <item value="com/alibaba/fastjson/serializer/SerializerFeature" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="777" />
-        <entry key="ENGLISH" value="778" />
+        <entry key="CHINESE" value="786" />
+        <entry key="ENGLISH" value="787" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LITHUANIAN" value="1" />
