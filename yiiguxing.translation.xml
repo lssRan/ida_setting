@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="144" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Web server failed to start. Port 9527 was already in use." />
       <item value="邮件&#10;" />
       <item value="is To Jump" />
       <item value="disable Focus" />
@@ -56,7 +57,6 @@
       <item value="Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]" />
       <item value=" Class path contains multiple SLF4J bindings." />
       <item value="详情&#10;" />
-      <item value="dateil" />
     </histories>
     <option name="languageScores">
       <map>
